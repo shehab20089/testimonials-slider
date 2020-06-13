@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+body .container {
+  position: relative;
+}
+body .container .test-container {
+  position: absolute;
+  opacity: 0.2;
+  height: 100vh;
+  background-image: url(./design/desktop-design-slide-1.jpg);
+  background-size: cover;
+  width: 100vw;
+}
+
+/*# sourceMappingURL=style.css.map */
